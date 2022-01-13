@@ -1,12 +1,12 @@
 {
-  "title": "Installing Bout++",
-  "description": "Starting to install BOUT++ for HPC Use",
+  "title": "Compiling BOUT++ in Docker",
+  "description": "Testing BOUT++ Compilation in Docker",
   "difficulty": "Beginner",
   "time": "60",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Creating The Dockerfile",
         "text": "step1.md"
       },
       {
