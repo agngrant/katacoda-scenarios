@@ -6,23 +6,23 @@
   "details": {
     "steps": [
       {
-        "title": "Creating The Dockerfile",
+        "title": "Creating a Dockerfile",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Building a Docker Image",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Running the Image",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Compiling BOUT++",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Running Examples",
         "text": "step5.md"
       }
     ],
