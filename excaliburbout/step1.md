@@ -1,5 +1,3 @@
-# Creating a Dockerfile
-
 This is used to define the steps used to create a docker image which can be run as a container.
 
 ## Create the Dockerfile

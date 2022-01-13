@@ -1,5 +1,3 @@
-# Building a Docker Image
-
 Before we can compile the BOUT++ code, we need to create a Docker image which we can run.
 
 Run the following command to start the build image process:
