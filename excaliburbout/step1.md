@@ -28,11 +28,6 @@ RUN DEBIAN_FRONTEND="noninteractive" TZ="Europe/London" apt-get -y --no-install-
 RUN apt-get -y install libfftw3-dev libnetcdf-dev libnetcdf-cxx-legacy-dev netcdf-bin
 RUN apt-get -y install liblapack-dev
 RUN apt-get -y install cmake
-
-RUN useradd --create-home --no-log-init --shell /bin/bash bout
-
-USER bout
-WORKDIR /home/bout
 ```{{copy}}
 
 Save your Dockerfile now and exit the editor.

@@ -1,10 +1,14 @@
 Before we can compile the BOUT++ code, we need to create a Docker image which we can run.
 
+## Run Build Command
+
 Run the following command to start the build image process:
 
 `docker build . -t bout`{{execute}}
 
 The process for the build will take anywhere from 3 to 20 minutes depending on network conditions.
+
+## Check Image registered with Docker
 
 Check your image has been created and tagged with the tag bout.
 
